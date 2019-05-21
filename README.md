@@ -3,9 +3,9 @@
 This is a README for the Fake Reviews Detection project by Group 22.
 
 ## Team Members:
+* Shreekrishna Prasad Sethuraman
 * Manthan Sanghavi
 * Supriyaa Damodaraswamy
-* Shreekrishna Prasad Sethuraman
 * Waris Phupaibhul
 * Vishnunarayanan Ramasubramanian
 
