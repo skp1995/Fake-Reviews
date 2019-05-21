@@ -1,0 +1,11 @@
+Best Ensemble Method,Best Machine Learning Method
+Scored Probability ,"Naive Bayes,Neural Network,Logistic Regression"
+Simple Majority ,"Naive Bayes,Support Vector Machines,Logistic Regression"
+Scored Probability ,"Naive Bayes,Support Vector Machines"
+Scored Probability ,"Decision Tree,Naive Bayes,Neural Network,Logistic Regression"
+Single Model ,Naive Bayes
+Simple Majority ,"Decision Tree,Naive Bayes,Neural Network,Logistic Regression"
+Scored Probability ,"Naive Bayes,Logistic Regression"
+Simple Majority ,"Decision Tree,Support Vector Machines,Neural Network,Logistic Regression"
+Scored Probability ,"Decision Tree,Naive Bayes,Support Vector Machines,Neural Network,Logistic Regression"
+Scored Probability ,"Neural Network,Logistic Regression"
